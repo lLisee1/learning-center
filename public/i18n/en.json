@@ -2,5 +2,9 @@
   "home": {
     "title": "Welcome",
     "content": "Welcome to ACME Learning Center."
+  },
+  "about": {
+    "title": "About Us",
+    "content": "ACME Learning Center is an Education Platform, part of ACME Corporation."
   }
 }
